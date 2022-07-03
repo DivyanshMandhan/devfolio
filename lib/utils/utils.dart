@@ -37,8 +37,7 @@ class StaticUtils {
     "https://github.com/DivyanshMandhan"
   ];
 
-  static const String resume =
-      'https://drive.google.com/file/d/1-jzIBJvkjqlEdnZvtoaFg_0IMWFFU_ze/view?usp=sharing';
+  static const String resume = 'https://resume.io/r/LjBGXv6Oa';
 
   static const String gitHub = 'https://github.com/DivyanshMandhan';
 }
