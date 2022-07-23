@@ -4,6 +4,7 @@ class ProjectUtils {
     "assets/projects/alan.png",
     "assets/projects/mytodoW.png",
     "assets/projects/newsappW.png",
+    "assets/projects/valoW.png"
   ];
 
   static const List<String> icons = [
@@ -11,6 +12,7 @@ class ProjectUtils {
     "assets/projects/flutter.png",
     "assets/projects/mytodo.png",
     "assets/projects/news.png",
+    "assets/projects/valo.png"
   ];
 
   static const List<String> titles = [
@@ -18,6 +20,7 @@ class ProjectUtils {
     "Alan Radio",
     "My Todo App",
     "News App",
+    "Valo Guide"
   ];
 
   static const List<String> description = [
@@ -25,6 +28,7 @@ class ProjectUtils {
     "A Radio app with voice Assistant made with flutter(Velocity X is used for changing colors of pages when swiping).Alan Radio API.",
     "A simpe todo application with Firebase as a backend.",
     "A news application with inshorts API.",
+    "Valorant guide with valorant API.",
   ];
 
   static const List<String> links = [
@@ -32,5 +36,6 @@ class ProjectUtils {
     "https://github.com/DivyanshMandhan/Alan---Radio",
     "https://github.com/DivyanshMandhan/my-todo",
     "https://github.com/DivyanshMandhan/news",
+    "https://github.com/DivyanshMandhan/valo",
   ];
 }
